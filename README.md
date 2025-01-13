@@ -62,7 +62,7 @@ Welcome to my GitHub profile! I'm **Ayoub Azmi**, a passionate developer and pro
 ---
 
 ## 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/ayoubazmi)  
+- 💼 [LinkedIn](www.linkedin.com/in/ayoub-azmi)  
 - 🌐 Website: [ayozmi.tech](https://ayozmi.tech)  
 - ✉️ Email: [ayoub@azmi.ma](mailto:ayoub@azmi.ma)
 
