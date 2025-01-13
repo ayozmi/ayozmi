@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Salam, Bonjour, Hello, Hola 👋
 
 Hi there! I’m **Ayoub Azmi** a developer with a passion for creating and solving problems. My expertise spans AI, databases, machine learning, back-end programming, and software development. I’m currently based in Spain, but my Moroccan roots inspire me to bring unique, fresh perspectives to every project I take on.
 
