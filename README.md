@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I'm **Ayoub Azmi**, a passionate developer and problem-solver specializing in AI, databases, machine learning, back-end programming, and software development. Based in Spain with Moroccan roots, I leverage my multicultural background to bring fresh perspectives to every project I tackle.
+Hi there! I’m **Ayoub Azmi** a developer with a passion for creating and solving problems. My expertise spans AI, databases, machine learning, back-end programming, and software development. I’m currently based in Spain, but my Moroccan roots inspire me to bring unique, fresh perspectives to every project I take on.
 
 ---
 
@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm **Ayoub Azmi**, a passionate developer and pro
 - 🌍 Living the digital nomad life in Spain 🇪🇸
 - 🎓 Experienced in designing relational databases, back-end development, and software development
 - 🤖 Exploring the limitless possibilities of AI and machine learning
-- 🎹 Piano enthusiast
+- 🎹 Gamer, Piano enthusiast, Football fan and F1 enjoyer
 - 🎮 My favorite games are Zelda, Red Dead Redemption 2, and The Last of Us
 
 ---
