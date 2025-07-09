@@ -6,7 +6,7 @@ Hi there! I’m **Ayoub Azmi** a developer with a passion for creating and solvi
 
 ## 🚀 About Me
 - 🌍 Living the digital nomad life in Spain 🇪🇸
-- 🎓 Experienced in designing relational databases, back-end development, and software development
+- 🎓 Experienced in creating AI solutions, designing relational databases, back-end development, and software development
 - 🤖 Exploring the limitless possibilities of AI and machine learning
 - 🎹 Gamer, Piano enthusiast, Football fan and F1 enjoyer
 - 🎮 My favorite games are Zelda, Red Dead Redemption 2, and The Last of Us
